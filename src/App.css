@@ -8,3 +8,14 @@
   justify-content: center;
   color: white;
 }
+
+button {
+  font-family: delirio;
+  transition-duration: 1s;
+  transition-property: transform;
+  transition-timing-function: ease;
+}
+
+button:hover {
+  transform: translateY(-10px);
+}

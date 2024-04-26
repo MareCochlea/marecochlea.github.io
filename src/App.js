@@ -7,6 +7,15 @@ function App() {
         <p>
           MareCochlea
         </p>
+        <button>
+          About
+        </button>
+        <button>
+          Projects
+        </button>
+        <button>
+          Contact
+        </button>
       </header>
     </div>
   );
