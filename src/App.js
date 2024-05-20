@@ -7,15 +7,9 @@ function App() {
         <p>
           MareCochlea
         </p>
-        <button>
-          About
-        </button>
-        <button>
-          Projects
-        </button>
-        <button>
-          Contact
-        </button>
+        <a href="https://www.w3schools.com/">About</a>
+        <a  >Projects</a>
+        <a href="https://discord.gg/ZX8FKx6NbA">Discord</a>
       </header>
     </div>
   );

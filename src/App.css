@@ -9,7 +9,9 @@
   color: white;
 }
 
-button {
+a {
+  color: black;
+  text-decoration: none;
   width: 25%;
   height: 48px;
   size: 1px;
@@ -26,6 +28,6 @@ button {
   transition-timing-function: ease;
 }
 
-button:hover {
+a:hover {
   transform: translateY(-10px);
 }
