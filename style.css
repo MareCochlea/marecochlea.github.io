@@ -50,3 +50,7 @@ a::-moz-selection {
 a::selection {
     background: rgba(0, 0, 0, 0);
 }
+
+a:visited {
+    color: white;
+}
