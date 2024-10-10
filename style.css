@@ -41,3 +41,12 @@ a:link {
 ::selection {
     background: rgba(0, 0, 0, 0);
 }
+
+
+a::-moz-selection {
+    background: rgba(0, 0, 0, 0);
+}
+
+a::selection {
+    background: rgba(0, 0, 0, 0);
+}
